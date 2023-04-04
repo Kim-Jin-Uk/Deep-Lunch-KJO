@@ -3,7 +3,8 @@
 # 7주차 프로젝트 논의
 ## 프레임 워크
 
-> PyTorch, TensorFlow > js로 개발한다면 TensorFlow 아니면 PyTorch, 
+> PyTorch, TensorFlow > js로 개발한다면 TensorFlow 아니면 PyTorch
+> 자세한 내용은 노션에 정리 되어 있다
 
 ### 모델 구현 가능성
 - 거의 모든 딥러닝 알고리즘을 구현할 수 있다
